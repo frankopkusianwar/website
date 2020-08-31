@@ -1,0 +1,88 @@
+@import 'bootstrap/dist/css/bootstrap';
+
+.nav1 ul li {
+  list-style: none;
+}
+
+.nav1 ul li a {
+  text-decoration: none;
+}
+
+.nav2 ul li {
+  list-style: none;
+}
+
+.nav2 ul li a {
+  text-decoration: none;
+}
+
+.image-container {
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.image-container h1 {
+  font-size: 4rem;
+  padding: 230px;
+  color: white;
+}
+
+.image-container h1 span {
+  font-size: 2rem;
+}
+
+.bloquote {
+  border-left: 5px solid green;
+}
+
+.footer-content {
+  background: rgb(102, 100, 100);
+}
+
+.footer-list li {
+  list-style: none;
+}
+
+.footer-list li a {
+  text-decoration: none;
+  color: white;
+}
+
+.social {
+  width: 60%;
+  margin: auto;
+}
+
+.drop-title {
+  color: orange;
+}
+
+.about-list li {
+  list-style: none;
+}
+
+.about-list {
+  font-size: 1rem;
+}
+
+.fa-facebook-square {
+  color: #4267B2;
+}
+
+.fa-twitter-square {
+  color: #1DA1F2;
+}
+
+.fa-linkedin {
+  color: #0072b1 ;
+}
+
+.fa-youtube-square {
+  color: #FF0000;
+}
+
+.quote-text {
+  font-size: 2em;
+}
